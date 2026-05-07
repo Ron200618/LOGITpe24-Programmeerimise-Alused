@@ -17,7 +17,7 @@ Need tööd on lihtsad narratiivsed või juhuslikkusel põhinevad mini-mängud/s
 - `minigame.py`
 - `elu-simulatoor.py`
 - `id_arvutamine`
-- `taring.tz`
+- `taring.tz` (repositooriumis olemasolev failinimi)
 
 ## Ekraanipildid / visuaalid
 - Tekstipõhised (konsooli) programmid, eraldi pildifaile pole.
